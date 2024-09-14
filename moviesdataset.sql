@@ -1,2 +1,4 @@
-select * from actors
-where birth_year=1982;
+-- Analysing movies dataset;
+-- fetching solutions of questions from movies dataset using SQL query;
+
+select title ,industry from movies;
